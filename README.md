@@ -1,1 +1,1 @@
-# RubikSolverMain
+# RubikSolver
